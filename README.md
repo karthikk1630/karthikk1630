@@ -7,16 +7,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🌱 Learning MERN Stack & Generative AI
-- 💻 Building Full Stack Projects
-- 🤖 Exploring Claude AI & ChatGPT
-- 🎯 Goal: Become a Software Developer
+-  Learning MERN Stack & Generative AI
+-  Building Full Stack Projects
+-  Exploring Claude AI & ChatGPT
+-  Goal: Become a Software Developer
 
 ---
 
-## 🤖 AI Tools I Use
+##  AI Tools I Use
 
 ![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge&logo=anthropic)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-green?style=for-the-badge&logo=openai)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -37,25 +37,25 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikk1630&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikk1630&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=karthikk1630&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
