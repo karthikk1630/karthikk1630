@@ -1,19 +1,23 @@
-# Hi there, I'm Machha Karthik
+# Hi there, I'm Machha Karthik 👋
 
-### MERN Stack Developer | AI Enthusiast
+<h3 align="center">MERN Stack Developer | AI Enthusiast</h3>
 
----
-
-##  About Me
-
--  Learning **MERN Stack** & **Generative AI**
--  Building Full Stack Projects
--  Exploring **Claude AI** & **ChatGPT**
--  Goal: Become a Software Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner&center=true&width=500&height=50">
+</p>
 
 ---
 
-##  Tech Stack
+## 🚀 About Me
+
+- 🌱 Learning **MERN Stack** & **Generative AI**
+- 💻 Building Full Stack Projects
+- 🤖 Exploring **Claude AI** & **ChatGPT**
+- 🎯 Goal: Become a Software Developer
+
+---
+
+## 🛠️ Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -26,47 +30,55 @@
 
 ---
 
-##  AI Tools I Use
+## 🤖 AI Tools I Use
 
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikk1630&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikk1630&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-##  GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=karthikk1630&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-##  GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikk1630&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/machha-karthik-b1606b3b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machha-karthik-b1606b3b4)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machhakarthik07@gmail.com)
 
 ---
 
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=karthikk1630&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
-<p align="center"> <i>If you like my work, consider starring some repos!</i> </p>
+---
+
+<p align="center">
+  <i>"Building projects, learning daily, and growing as a developer 🚀"</i>
+</p>
