@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h1 align="center">Hi , I'm  Machha Karthik</h1>
 <h3 align="center">MERN Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
